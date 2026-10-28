@@ -14,7 +14,7 @@
 | **Frontend** | Next.js 15 (App Router), Tailwind CSS, Lucide Icons | Responsive split-screen workspace & PDF/TXT export |
 | **Backend** | Python 3.12, FastAPI, Pydantic | REST API endpoints, input validation, & file parsing |
 | **File Parsing** | PyMuPDF (`fitz`), `python-docx` | Fast text extraction from uploaded PDF & DOCX resumes |
-| **LLM Provider**  | Groq | Google Gemini (`gemini-3-flash-preview`) |  Structured output resume tailoring & insight generation |
+| **LLM Provider**  | Groq & Google Gemini (`gemini-3-flash-preview`) |  Structured output resume tailoring & insight generation |
 | **Hosting** | Vercel (Frontend) + Render (Backend) | Public cloud infrastructure |
 
 ---
