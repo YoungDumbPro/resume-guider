@@ -1,0 +1,21 @@
+# Environment variables (NEVER commit real API keys!)[cite: 4, 5]
+.env
+.env.local
+.env.*.local
+
+# Python / Backend
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Next.js / Frontend
+node_modules/
+.next/
+out/
+build/
+
+# OS & Editor files
+.DS_Store
+.vscode/
+.idea/
